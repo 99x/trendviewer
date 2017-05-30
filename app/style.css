@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: center;
+  }
+
+ .Chart__container {
+    background-color: #fff;
+    box-shadow: 0 2px 16px 0 rgba(0,0,0,0.30);
+    padding: rem(20) rem(40);
+    margin: rem(50) 0;
+    display: flex;
+    justify-content: center;
+  }
